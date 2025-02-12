@@ -15,7 +15,7 @@
 
 | Home Screen | Resume Templates | Resume Preview |
 |-------------|----------------|---------------|
-| ![Home](./screenshots/home.png) | ![Templates](./screenshots/templates.png) | ![Preview](./screenshots/preview.png) |
+| ![Home](<img src="screenshot/logo.svg" alt="Description" height="400" />) | ![Templates](./screenshots/templates.png) | ![Preview](./screenshots/preview.png) |
 
 ## ✨ Features
 
