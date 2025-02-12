@@ -24,7 +24,7 @@
          <img src="https://github.com/RAWAN3830/laTeXpert/blob/main/screenshot/login.png" height="400"/>
       </td> 
       <td>
-         <img src="https://github.com/RAWAN3830/laTeXpert/blob/main/screenshot/registration.png" height="400"/>
+         <img src="https://github.com/RAWAN3830/laTeXpert/blob/main/screenshot/register.png" height="400"/>
       </td> 
       <td>
          <img src="https://github.com/RAWAN3830/laTeXpert/blob/main/screenshot/main_screen.png" height="400"/>
