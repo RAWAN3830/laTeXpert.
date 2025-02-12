@@ -16,8 +16,7 @@
 ## 📸 Screenshots
 
 | Home Screen | Resume Templates | Resume Preview |
-|-------------|------------------|---------------|
-| ![Home](screenshot/skill.png) | ![Templates](screenshot/templates.png) | ![Preview](screenshot/preview.png) |
+
 
 <table>
    <tr> 
