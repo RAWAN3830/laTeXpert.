@@ -1,6 +1,11 @@
-# LaTeXpert - Resume Builder 🚀
 
-![LaTeXpert Logo](./assets/logo.svg)
+# LaTeXpert - Resume Builder 🚀
+<p align="start">
+   <img src="./assets/logo.svg" alt="Description" width="100" height="100" />
+  <img src="./assets/text.svg" alt="Description" width="100" height="100" />
+</p>
+
+
 
 **LaTeXpert** is a powerful and efficient **Resume Builder App** built using **Flutter** for the frontend and **Node.js (Express.js) with MongoDB** for the backend. It allows users to generate professional resumes dynamically using **LaTeX** code. The app supports offline data storage with **Hive**, and state management is handled using **BLoC/Cubit**.
 
