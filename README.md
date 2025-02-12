@@ -13,9 +13,11 @@
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 | Home Screen | Resume Templates | Resume Preview |
-|-------------|----------------|---------------|
-| ![Home](<img src="screenshot/skill.png" alt="Description" height="400" />) | ![Templates](./screenshots/templates.png) | ![Preview](./screenshots/preview.png) |
+|-------------|------------------|---------------|
+| ![Home](screenshot/skill.png) | ![Templates](screenshot/templates.png) | ![Preview](screenshot/preview.png) |
 
 ## ✨ Features
 
