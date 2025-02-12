@@ -19,6 +19,30 @@
 |-------------|------------------|---------------|
 | ![Home](screenshot/skill.png) | ![Templates](screenshot/templates.png) | ![Preview](screenshot/preview.png) |
 
+   <tr> <td>
+   <img src="https://github.com/RAWAN3830/laTeXpert/blob/main/screenshot/login.png" height="400"/>
+</td> <td>
+<!--    <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/login.png" height="400"/>
+</td> <td>
+   <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/home1.png" height="400"/>
+</td> <td>
+      <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/home2.png" height="400"/>
+   </td>  </tr> 
+   <td>
+      <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/discription.png" height="400"/>
+   </td> <td>
+      <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/razorpay1.png" height="400"/>
+   </td>
+  <td>
+      <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/invoice_screen.png" height="400"/>
+   </td>
+<td>
+      <img src="https://github.com/RAWAN3830/e-commerce/blob/main/screenshots/cart1.png" height="400"/>
+   </td>
+</tr>  -->
+</table>
+
+
 ## ✨ Features
 
 ✅ **Dynamic Resume Generation** with LaTeX 📄  
