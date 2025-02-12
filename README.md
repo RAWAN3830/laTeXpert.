@@ -1,8 +1,8 @@
 
 # LaTeXpert - Resume Builder 🚀
 <p align="start">
-   <img src="./screehshot/logo.svg" alt="Description" width="100" height="100" />
-  <img src="./screehshot/text.svg" alt="Description" width="100" height="100" />
+   <img src="screenshot/logo.svg" alt="Description" width="100" height="100" />
+  <img src="screenshot/text.svg" alt="Description" width="100" height="100" />
 </p>
 
 
